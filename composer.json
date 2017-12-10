@@ -1,1 +1,17 @@
-
+{
+  "name": "theczech/nette-ajax",
+  "description": "AJAX support for Nette Framework",
+  "homepage": "https://github.com/vojtech-dobes/nette.ajax.js",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vojtěch Dobeš",
+      "email": "me@vojtechdobes.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "NetteAjax": ""
+    }
+  }
+}
